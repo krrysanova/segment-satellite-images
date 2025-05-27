@@ -1,4 +1,4 @@
-## Latest updates -- SAM 2: Segment Anything in Images and Videos
+## Latest updates -- SAM 2: Segment Anything in Satellite Images and Videos
 
 Please check out our new release on [**Segment Anything Model 2 (SAM 2)**](https://github.com/facebookresearch/segment-anything-2).
 
